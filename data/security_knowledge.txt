@@ -1,0 +1,5 @@
+Failed login attempts from multiple geographic locations within a short time span is a strong indicator of a brute-force or credential stuffing attack.
+PowerShell executing commands encoded in base64 is a common technique used by attackers to obfuscate malicious payloads.
+A process spawning a command shell (cmd.exe) and then making a network connection to an external IP is suspicious behavior, often associated with command and control (C2) activity.
+The creation of a new user account in the Administrators group by a non-administrative process is a critical privilege escalation event.
+WMI (Windows Management Instrumentation) can be used for persistence. A scheduled job created via WMI that executes a suspicious script is a red flag.
