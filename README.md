@@ -106,7 +106,3 @@ splunk-ai-analyzer/
 ├── main.py
 └── requirements.txt
 ```
-
-## License
-
-No license is included. Add a license file if you want to grant others specific reuse rights.
